@@ -152,6 +152,7 @@
 
 ## Python 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -195,7 +196,7 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - [neuml/txtinstruct](https://github.com/neuml/txtinstruct) - 📚 Datasets and models for instruction-tuning
