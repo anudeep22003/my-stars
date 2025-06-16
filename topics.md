@@ -94,6 +94,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -813,6 +814,10 @@
 ## privacy 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+
+## productivity 
+
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 ## programming 
 
