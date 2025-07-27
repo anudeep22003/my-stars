@@ -80,6 +80,7 @@
 - [markdown](#markdown)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
+- [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
@@ -342,6 +343,7 @@
 
 ## database 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -463,6 +465,7 @@
 
 ## git 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 
 ## go 
@@ -472,6 +475,7 @@
 
 ## golang 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
@@ -641,6 +645,10 @@
 ## mongodb 
 
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
+
+## mysql 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## natural-language-processing 
 
@@ -992,6 +1000,7 @@
 
 ## sql 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [totalhack/zillion](https://github.com/totalhack/zillion) - Make sense of it all. Semantic data modeling and analytics with a sprinkle of AI. https://totalhack.github.io/zillion/
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
