@@ -149,6 +149,7 @@
 
 ## ai 
 
+- [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
@@ -1097,6 +1098,7 @@
 
 ## typescript 
 
+- [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
