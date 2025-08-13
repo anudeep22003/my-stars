@@ -99,6 +99,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -865,6 +866,11 @@
 ## php 
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+
+## physics 
+
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [quantum-visualizations/qmsolve](https://github.com/quantum-visualizations/qmsolve) - ⚛️ A module for solving and visualizing the Schrödinger equation.
 
 ## postgresql 
 
