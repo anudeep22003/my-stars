@@ -105,7 +105,7 @@
 - [RasaHQ/algorithm-whiteboard-resources](https://github.com/RasaHQ/algorithm-whiteboard-resources) - this is where we share notebooks/projects used in your youtube channel
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [tomhartke/RL-demonstrations](https://github.com/tomhartke/RL-demonstrations) - A few reinforcement learning agent demonstrations, including AlphaGoZero, Proximal Policy Optimization, and Q learning
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
