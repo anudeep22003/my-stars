@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [plasmodic/ecto](https://github.com/plasmodic/ecto) - ecto is a dynamically configurable Directed Acyclic processing Graph (DAG) framework.
