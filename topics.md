@@ -17,6 +17,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
@@ -257,6 +258,10 @@
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## c 
 
