@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [Cuda](#cuda)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -63,6 +64,10 @@
 ## Common Lisp 
 
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
+
+## Cuda 
+
+- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 
 ## Go 
 
@@ -167,6 +172,7 @@
 
 ## Python 
 
+- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
