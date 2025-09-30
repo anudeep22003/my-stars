@@ -172,6 +172,7 @@
 
 ## Python 
 
+- [trinath-y/open-chat-interface](https://github.com/trinath-y/open-chat-interface) - chat interface where you can use your claude code pro/max plan using the oauth library
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
@@ -348,7 +349,7 @@
 - [sghall/react-compound-slider](https://github.com/sghall/react-compound-slider) - :black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
