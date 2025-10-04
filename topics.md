@@ -147,6 +147,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -606,6 +607,7 @@
 
 ## javascript 
 
+- [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -851,7 +853,7 @@
 ## others 
 
 - [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
-- [trinath-y/open-chat-interface](https://github.com/trinath-y/open-chat-interface) - chat interface where you can use your claude code pro/max plan using the oauth library
+- [yty-build/open-chat-interface](https://github.com/yty-build/open-chat-interface) - chat interface where you can use your claude code pro/max plan using the oauth library
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
@@ -1240,6 +1242,10 @@
 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+## visualization 
+
+- [quantum-visualizations/qmsolve](https://github.com/quantum-visualizations/qmsolve) - ⚛️ A module for solving and visualizing the Schrödinger equation.
 
 ## vue 
 
