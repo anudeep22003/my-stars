@@ -199,7 +199,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## algorithm 
@@ -311,7 +311,7 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -421,7 +421,7 @@
 ## deep-learning 
 
 - [smtmRadu/DeepUnity](https://github.com/smtmRadu/DeepUnity) - An open source deep learning library for Unity.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -852,7 +852,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [totalhack/zillion](https://github.com/totalhack/zillion) - Make sense of it all. Semantic data modeling and analytics with a sprinkle of AI. https://totalhack.github.io/zillion/
@@ -866,6 +866,7 @@
 
 ## others 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
@@ -923,7 +924,7 @@
 - [FlorianDietz/comgra](https://github.com/FlorianDietz/comgra) - A tool to analyze and debug neural networks in pytorch. Use a GUI to traverse the computation graph and view the data from many different angles at the click of a button.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [neuml/txtinstruct](https://github.com/neuml/txtinstruct) - 📚 Datasets and models for instruction-tuning
 - [elesiuta/conways-game-of-chess](https://github.com/elesiuta/conways-game-of-chess) - Chess, but each square also follows the rules of Conway's Game of Life
