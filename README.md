@@ -12,6 +12,7 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Cuda](#cuda)
+- [GLSL](#glsl)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -69,6 +70,10 @@
 
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 
+## GLSL 
+
+- [ekzhang/graphics-workshop](https://github.com/ekzhang/graphics-workshop) - Learn computer graphics by writing GPU shaders!
+
 ## Go 
 
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
@@ -83,6 +88,7 @@
 
 ## JavaScript 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
@@ -316,7 +322,6 @@
 
 ## Shell 
 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [sitkevij/awesome-video](https://github.com/sitkevij/awesome-video) - A curated list of awesome video frameworks, libraries, specifications and software.
 - [NeuralNine/config-files](https://github.com/NeuralNine/config-files) - A collection of my config files.
@@ -359,7 +364,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
