@@ -868,6 +868,7 @@
 
 ## others 
 
+- [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
