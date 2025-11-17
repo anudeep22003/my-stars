@@ -875,7 +875,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
-- [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
 - [yty-build/open-chat-interface](https://github.com/yty-build/open-chat-interface) - chat interface where you can use your claude code pro/max plan using the oauth library
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
