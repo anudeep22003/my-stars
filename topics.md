@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -29,6 +30,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -209,6 +211,10 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 
+## algorithms 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
 ## analytics 
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
@@ -355,6 +361,12 @@
 ## coding 
 
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+
+## command-line 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 
 ## compiler 
 
