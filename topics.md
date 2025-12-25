@@ -921,6 +921,7 @@
 
 ## others 
 
+- [google/A2UI](https://github.com/google/A2UI) - 
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research
