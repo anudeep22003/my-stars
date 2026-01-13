@@ -156,6 +156,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [unity](#unity)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -1354,6 +1355,10 @@
 ## unity 
 
 - [smtmRadu/DeepUnity](https://github.com/smtmRadu/DeepUnity) - An open source deep learning library for Unity.
+
+## video 
+
+- [sitkevij/awesome-video](https://github.com/sitkevij/awesome-video) - A curated list of awesome video frameworks, libraries, specifications and software.
 
 ## vim 
 
