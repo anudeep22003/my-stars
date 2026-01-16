@@ -940,7 +940,7 @@
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
