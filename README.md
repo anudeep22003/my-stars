@@ -332,7 +332,7 @@
 
 ## Shell 
 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [sitkevij/awesome-video](https://github.com/sitkevij/awesome-video) - A curated list of awesome video frameworks, libraries, specifications and software.
 - [NeuralNine/config-files](https://github.com/NeuralNine/config-files) - A collection of my config files.
