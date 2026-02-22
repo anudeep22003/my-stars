@@ -186,6 +186,8 @@
 
 ## Python 
 
+- [ascottbell/maasv](https://github.com/ascottbell/maasv) - Memory Architecture as a Service — cognition layer for AI assistants. 3-signal retrieval, knowledge graphs, memory lifecycle.
+- [ascottbell/doris](https://github.com/ascottbell/doris) - A personal AI assistant framework with proactive intelligence, multi-provider LLM support, and memory-driven context
 - [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.
@@ -347,7 +349,7 @@
 ## TypeScript 
 
 - [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Typed Mongo Query Language
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
