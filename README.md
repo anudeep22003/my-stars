@@ -186,6 +186,7 @@
 
 ## Python 
 
+- [Open-Superintelligence-Lab/5-dollar-llm](https://github.com/Open-Superintelligence-Lab/5-dollar-llm) - Train LLM from scratch for $5 USD - Research.
 - [ascottbell/maasv](https://github.com/ascottbell/maasv) - Memory Architecture as a Service — cognition layer for AI assistants. 3-signal retrieval, knowledge graphs, memory lifecycle.
 - [ascottbell/doris](https://github.com/ascottbell/doris) - A personal AI assistant framework with proactive intelligence, multi-provider LLM support, and memory-driven context
 - [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
@@ -313,6 +314,7 @@
 
 ## Rust 
 
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
