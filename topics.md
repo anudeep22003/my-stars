@@ -946,6 +946,7 @@
 
 ## others 
 
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 - [Open-Superintelligence-Lab/5-dollar-llm](https://github.com/Open-Superintelligence-Lab/5-dollar-llm) - Train LLM from scratch for $5 USD - Research.
 - [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Typed Mongo Query Language
 - [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
