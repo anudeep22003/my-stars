@@ -188,6 +188,7 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [Open-Superintelligence-Lab/5-dollar-llm](https://github.com/Open-Superintelligence-Lab/5-dollar-llm) - Train LLM from scratch for $5 USD - Research.
 - [ascottbell/maasv](https://github.com/ascottbell/maasv) - Memory Architecture as a Service — cognition layer for AI assistants. 3-signal retrieval, knowledge graphs, memory lifecycle.
 - [ascottbell/doris](https://github.com/ascottbell/doris) - A personal AI assistant framework with proactive intelligence, multi-provider LLM support, and memory-driven context
