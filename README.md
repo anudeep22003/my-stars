@@ -188,6 +188,7 @@
 
 ## Python 
 
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [Open-Superintelligence-Lab/5-dollar-llm](https://github.com/Open-Superintelligence-Lab/5-dollar-llm) - Train LLM from scratch for $5 USD - Research.
 - [ascottbell/maasv](https://github.com/ascottbell/maasv) - Memory Architecture as a Service — cognition layer for AI assistants. 3-signal retrieval, knowledge graphs, memory lifecycle.
@@ -318,7 +319,7 @@
 ## Rust 
 
 - [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves itself. One commit per day.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
