@@ -356,7 +356,7 @@
 ## TypeScript 
 
 - [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Typed Mongo Query Language
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
