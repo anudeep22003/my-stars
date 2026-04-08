@@ -364,7 +364,7 @@
 ## TypeScript 
 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
-- [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Typed Mongo Query Language
+- [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Type-safe MongoDB aggregation pipelines for TypeScript. Compile-time validation of field references, stage outputs, and operators.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
