@@ -215,7 +215,7 @@
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
 - [jxnl/kura](https://github.com/jxnl/kura) - Kura is a simple reproduction of the CLIO paper which uses language models to label user behaviour before clustering them based on embeddings recursively. This helps us understand user behaviour on a 
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
