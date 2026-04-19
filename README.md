@@ -190,6 +190,7 @@
 
 ## Python 
 
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [UW-Lab/UWLab](https://github.com/UW-Lab/UWLab) - 
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [lambda-calculus-LLM/lambda-RLM](https://github.com/lambda-calculus-LLM/lambda-RLM) - Method for Long Context RLMs using verifiable Lambda Calculus
