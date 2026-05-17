@@ -157,6 +157,7 @@
 
 ## Others 
 
+- [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 - [let-me-do-your-job/lmdyj-ai-agent-architecture](https://github.com/let-me-do-your-job/lmdyj-ai-agent-architecture) - 
 - [Shichun-Liu/Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 - [ESWAT/john-carmack-plan-archive](https://github.com/ESWAT/john-carmack-plan-archive) - Collection of John Carmack’s .plan files
