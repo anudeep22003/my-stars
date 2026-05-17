@@ -242,6 +242,7 @@
 
 ## ai-agents 
 
+- [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
