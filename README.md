@@ -202,6 +202,7 @@
 - [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -366,7 +367,6 @@
 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Type-safe MongoDB aggregation pipelines for TypeScript. Compile-time validation of field references, stage outputs, and operators.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
