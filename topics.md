@@ -70,6 +70,7 @@
 - [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
+- [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
 - [gis](#gis)
 - [git](#git)
@@ -641,6 +642,10 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 
+## gamedev 
+
+- [kjkrol/goke](https://github.com/kjkrol/goke) - High-performance, zero-allocation ECS for Go. Cache-friendly data orchestrator with type-safe iterators.
+
 ## generative-ai 
 
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
@@ -670,6 +675,7 @@
 
 ## go 
 
+- [kjkrol/goke](https://github.com/kjkrol/goke) - High-performance, zero-allocation ECS for Go. Cache-friendly data orchestrator with type-safe iterators.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
