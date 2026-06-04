@@ -83,7 +83,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [SwishHQ/spread](https://github.com/SwishHQ/spread) - A code-push compatible OTA update server for React Native 🪂
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
@@ -192,6 +192,8 @@
 
 ## Python 
 
+- [productlayers/autonboard](https://github.com/productlayers/autonboard) - Autonomous browser agent that simulates real user personas navigating software onboarding flows, surfacing UX friction and time-to-value gaps for product teams.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [UW-Lab/UWLab](https://github.com/UW-Lab/UWLab) - 
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
@@ -368,7 +370,7 @@
 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [pipesafe/pipesafe](https://github.com/pipesafe/pipesafe) - Type-safe MongoDB aggregation pipelines for TypeScript. Compile-time validation of field references, stage outputs, and operators.
-- [google/A2UI](https://github.com/google/A2UI) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
