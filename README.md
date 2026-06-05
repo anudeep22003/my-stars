@@ -48,7 +48,6 @@
 
 ## C++ 
 
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [plasmodic/ecto](https://github.com/plasmodic/ecto) - ecto is a dynamically configurable Directed Acyclic processing Graph (DAG) framework.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -158,6 +157,7 @@
 
 ## Others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 - [let-me-do-your-job/lmdyj-ai-agent-architecture](https://github.com/let-me-do-your-job/lmdyj-ai-agent-architecture) - 
 - [Shichun-Liu/Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
@@ -166,6 +166,7 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
@@ -192,6 +193,7 @@
 
 ## Python 
 
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [productlayers/autonboard](https://github.com/productlayers/autonboard) - Autonomous browser agent that simulates real user personas navigating software onboarding flows, surfacing UX friction and time-to-value gaps for product teams.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
