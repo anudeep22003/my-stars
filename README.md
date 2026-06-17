@@ -12,7 +12,6 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Cuda](#cuda)
-- [Dockerfile](#dockerfile)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -21,6 +20,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [MLIR](#mlir)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -72,10 +72,6 @@
 ## Cuda 
 
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
-
-## Dockerfile 
-
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## GLSL 
 
@@ -156,6 +152,10 @@
 ## MLIR 
 
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+
+## Makefile 
+
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## Markdown 
 
