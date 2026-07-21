@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [let-me-do-your-job/lmdyj-ai-agent-architecture](https://github.com/let-me-do-your-job/lmdyj-ai-agent-architecture) - 
 - [UW-Lab/UWLab](https://github.com/UW-Lab/UWLab) - 
