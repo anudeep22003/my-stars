@@ -235,7 +235,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) - [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
-- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
@@ -381,7 +381,7 @@
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [Sidebrain/github-repo-understand](https://github.com/Sidebrain/github-repo-understand) - 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
