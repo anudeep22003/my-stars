@@ -170,7 +170,7 @@
 - [Shichun-Liu/Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 - [ESWAT/john-carmack-plan-archive](https://github.com/ESWAT/john-carmack-plan-archive) - Collection of John Carmack’s .plan files
 - [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Open Visual Agentic Intelligence
-- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - Archived — Spark Joy now lives on Forge.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
