@@ -119,6 +119,7 @@
 
 ## Jupyter Notebook 
 
+- [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
 - [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research
 - [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers in pytorch
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
