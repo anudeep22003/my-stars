@@ -71,6 +71,9 @@
 - [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
+- [game](#game)
+- [game-development](#game-development)
+- [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
 - [gis](#gis)
@@ -666,8 +669,21 @@
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 
+## game 
+
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
+
+## game-development 
+
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
+
+## game-engine 
+
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
+
 ## gamedev 
 
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [kjkrol/goke](https://github.com/kjkrol/goke) - High-performance, zero-allocation ECS for Go. Cache-friendly data orchestrator with type-safe iterators.
 
 ## generative-ai 
@@ -700,6 +716,7 @@
 
 ## go 
 
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [MishaBear94/iso-topology](https://github.com/MishaBear94/iso-topology) - Isometric architecture diagrams as code — text DSL in, design-grade 2.5D SVG out. Agent-first: LLMs can discover, generate, and validate the DSL.
 - [kjkrol/goke](https://github.com/kjkrol/goke) - High-performance, zero-allocation ECS for Go. Cache-friendly data orchestrator with type-safe iterators.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -708,6 +725,7 @@
 
 ## golang 
 
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [MishaBear94/iso-topology](https://github.com/MishaBear94/iso-topology) - Isometric architecture diagrams as code — text DSL in, design-grade 2.5D SVG out. Agent-first: LLMs can discover, generate, and validate the DSL.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
