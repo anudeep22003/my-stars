@@ -306,6 +306,7 @@
 
 ## artificial-intelligence 
 
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -475,6 +476,7 @@
 
 - [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -543,6 +545,7 @@
 - [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [dreddnafious/thereisnospoon](https://github.com/dreddnafious/thereisnospoon) - A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [smtmRadu/DeepUnity](https://github.com/smtmRadu/DeepUnity) - An open source deep learning library for Unity.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
@@ -830,6 +833,7 @@
 
 ## jupyter-notebook 
 
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 
 ## kubernetes 
@@ -871,6 +875,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
@@ -922,6 +927,7 @@
 
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [dreddnafious/thereisnospoon](https://github.com/dreddnafious/thereisnospoon) - A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -1017,6 +1023,7 @@
 
 ## nlp 
 
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
@@ -1132,7 +1139,6 @@
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
-- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers in pytorch
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [jxnl/kura](https://github.com/jxnl/kura) - Kura is a simple reproduction of the CLIO paper which uses language models to label user behaviour before clustering them based on embeddings recursively. This helps us understand user behaviour on a 
@@ -1330,6 +1336,7 @@
 
 - [LibreYOLO/libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
