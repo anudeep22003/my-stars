@@ -124,7 +124,7 @@
 
 - [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
 - [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab) - A virtual lab of LLM agents for science research
-- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - A repository consisting of paper/architecture replications of classic/SOTA AI/ML papers in pytorch
+- [YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [nl2logql/LogQLLM](https://github.com/nl2logql/LogQLLM) - 
