@@ -382,6 +382,7 @@
 
 ## TypeScript 
 
+- [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) - Agent harness for learning difficult things.
 - [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
 - [amosblomqvist/learn](https://github.com/amosblomqvist/learn) - My AI learning system.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
