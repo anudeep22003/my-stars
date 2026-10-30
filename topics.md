@@ -14,6 +14,7 @@
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
+- [animation](#animation)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -295,6 +296,10 @@
 ## analytics 
 
 - [totalhack/zillion](https://github.com/totalhack/zillion) - Make sense of it all. Semantic data modeling and analytics with a sprinkle of AI. https://totalhack.github.io/zillion/
+
+## animation 
+
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 
 ## api 
 
