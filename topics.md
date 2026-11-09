@@ -100,6 +100,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learn-to-code](#learn-to-code)
@@ -855,6 +856,10 @@
 
 - [YuvrajSingh-mist/Paper-Replications-and-Experiments](https://github.com/YuvrajSingh-mist/Paper-Replications-and-Experiments) - From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE, plus SFT/GRPO post-training experiments.
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
+
+## knowledge-graph 
+
+- [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 
 ## kubernetes 
 
